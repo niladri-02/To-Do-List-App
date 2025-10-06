@@ -35,7 +35,8 @@ npm install
 # Start development server
 npm start
 
-🚀 Usage
+```
+## 🚀 Usage
 
 Type your task into the input field.
 
